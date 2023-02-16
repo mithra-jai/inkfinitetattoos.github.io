@@ -1,0 +1,108 @@
+20/1/23-- Morning session
+
+HTML-HyperText Markup Language
+==============================
+
+Hypertext- The text which links to another text/link/email by anchoring(using anchor tag).
+
+It is a client side scripting language:
+
+-> Because it provides structure to the page of browser(client side)
+
+-> HTML is a language which takes input from client side
+
+All the programs are a fixed set of commands that computer understands which is machine readable language
+
+Tags:
+====
+Tags are coded data that could be converted into machine readable language which can be understand by computer.
+
+Types of tags:
+=============
+
+-> Container tags
+
+-> Empty tags
+
+Syntax:
+======
+
+Syntax is the format/way in any of the programming languages that we write commands.
+
+Syntax of tags:
+==============
+
+We should write tags between angular tags.
+
+<html>  --> Opening tag
+</html> --> Closing tag
+<br>    --> Empty tag which is a stand alone tag 
+
+Command   - Single word instruction(tags)
+Statement - Collection of commands(block of code)
+
+Attributes & Value :
+==================
+
+-> Some commands(tags) wich contain another command it is called attributes 
+   which also have value.
+
+--------------------------------------------------------------------------------------------------------
+
+20/1/23-- Afternoon session
+
+
+Tags:
+====
+
+ <html> </html> -- Every content should be written between these tags
+
+ <head> </head> -- To define title
+
+ <body> </body> 
+
+ <p>    </p>    -- To display in paragraphs
+
+ <br>           -- For breaking a line
+
+ <hr>           -- To display a horizontal line
+
+ Attributes of <font> </font> :
+ ============================
+  
+   Style
+   
+   Size
+  
+   color 
+ 
+
+Similarities in Java and HTML:
+=============================
+ 
+           
+
+               HTML                            |         JAVA ANALOGY        
+                                               | 
+   <body bgcolor="grey">                       |    class class_name[Body tag]{
+                                               |
+   </body>                                     |     int salary[Attribue] = 1000[Value];
+                                               |
+                                               |    }
+                                               |
+                                               |
+ <body bgcolor[Attribute of parent tag]="grey">|    class parent{
+                                               |       
+  <font color[Attribute of child tag]="red">   |     int salary[Attribute of parent class]=10000;
+                                               |
+  </font>                                      |     }
+                                               |
+ </body>                                       |    class child{
+                                               |   
+     --> Here, the attribute of font tag       |    int salary[Attribute of child class]=20000;
+         overrides the attribute of body       |
+         tag just like inheritance in java     |     }
+
+
+
+----------------------------------------------------------------------------------------------------------------------

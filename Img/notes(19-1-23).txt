@@ -1,0 +1,77 @@
+19/1/23-- Morning session
+
+
+Client- Client computer is the one which is in need of service and asks service from server.
+
+Server- It provides service to the client computer.
+
+World Wide Web- The collection of computers which are connected to the internet by means of world wide web.
+
+Website- It consists of both client side and server side.
+
+-----------------------------------------------------------------------------------------------------------
+19/1/23-- Afternoon session 
+
+Working of WWW :
+==============
+
+-> The request will be send from client computer to sever.
+
+-> The server does accept and process the request.
+
+-> Then it sends the response to the client computer.
+
+-> It is all possible with the help of WwW.
+
+Working of Website :
+==================
+
+-> Website is a collection of webpages.
+
+-> While searching through search engine like Google, the first page(home page) of the webpages 
+   will be visible on our computer(client) which is directed from the server.
+
+-> To develop website, both the client side languages(HTML,CSS) and the server side 
+   languages(JSP,PHP,ASP) are used. 
+
+-> HTML code of the websites will be accessible on the internet because it is a client side language.
+
+Components of computer:
+======================
+    |--> Hardware
+    |
+    |--> Software
+           |
+           |--> System software
+           |
+           |--> Application software
+                      |
+                      |--> Mobile applicaton [ Works on mobile & need installation ]
+                      |
+                      |--> Desktop application [ Works on PC/Laptop & need installation]
+                      |
+                      |--> Web application [ Works on server with help of internet & installation not needed ] 
+
+------------------------------------------------------------------------------------------------------------------
+19/1/23-- Evening session
+
+  Hardware- The components used in computer which are physical.
+
+  Software- The components used in computer which cant be physical.
+
+In any tasks, there will be Input, Processing and Output.
+
+--> In mobile app, I.P->Processing->O.P on the same mobile
+
+--> In desktop app, I.P->Processing->O.P on the same desktop
+
+--> In web app, I.P-Mobile/Desktop ->Processing-Server->O.P Same mobile/desktop
+
+For a website,
+
+-> For taking Input, HTML is used which provides structure to the browser(Client side),designing by CSS
+   Validation is done by Javascript.
+
+-> For processinng, server side languages like JSP,PHP and ASP are used.
+
+-> For showing output, either HTML/ HTML+JSP is used.
